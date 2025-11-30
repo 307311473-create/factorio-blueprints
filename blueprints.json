@@ -1,0 +1,44 @@
+{
+  "blueprints": [
+    {
+      "id": "bp-001",
+      "name": "铁齿轮生产线",
+      "description": "6组装机生产线制造铁齿轮，两路输入一路输出，适合早期自动化",
+      "factorio_version": "2.0.72",
+      "tags": ["compact", "early-game", "iron-gear-wheel"],
+      "code": "0eNq1WNtuozAQ/Rc/mwpfhkt+pYoqkliptWBYA9tGEf++JqhVdwvZsZ19ijHOOWMfe+aYKznUo+qsNgPZXYk+tqYnu+cr6fXZVPXcZ6pGkR2p+l41h1qbc9JUx1dtVCLIRIk2J/VOdmzaU6LMoAetFoTbw+XFjM1BWTeAfiAdxvpHok2v7OBeUNK1vftXa2YyhyTYE1ByIbskfYJpot+Q+CeSeu+s6vtkdDHYs23db3JQ9XAP1DVc1Cdt1XF5X1AyXLoZTptuHMgKo0DHnv8jdhkSex4TO9C7Cm6v1ELmqPRCYFuTnFVlk7dXpWry8erl51jVjtANMa1t3J5ZCSJDL6D4g/3LVBlfwc0/cRt10mOTqNqNt/qYdG2t7sBvyFOg44StOOUKbPlN9cFWpu9aO2xpLrfwixV8lvquA9xfB8Z8d03+H3YN4945Q6CWS4TrgSOQ4QQcRQDeGQkXeBaTWyEgPTHvI5x+YVsDLGKmILen0I7D1hwizjdgZOFpOIFEEbCYuhSiO+cxjEEyceG71Yr7W41L7/yUbSBBuMA5SuAsnCBDEeTeGWlrLYpQx1I8sPbw0tuyFCjLIiLOcolRQjBvE1NgTIzg4YEXqMBFqOl4pPBCxtQPxkIykwDvRMJS1JJGHHuGsp4ij2DAzaGIqRSBgpTe2Qw3GZn6Ky02rpIsaqPygKIteahZu9GtIUZYcYaytDLCizOUGZf+ZnxT0yxqrwdpmoe6ok1Ngws4gwcmculfwRmgSjik/p8JAFNigUXsVdRNAiKKOENdJSC4ij9UfYg59ihLDRGenaE8NcRUb5RXhJjqvWLq9pS8uef5A/BzToGylMKeLs381px7qLuJ3dr5X21XX+b23EXlMn7uWtoOWw+qmQ/d5ydrSn4p29/IIeOlLEsomCjLVE7Tb+t1gpc="
+    },
+    {
+      "id": "bp-002",
+      "name": "绿电路流水线",
+      "description": "铸造厂生产绿板产线，两路输入一路输出，适合火星",
+      "factorio_version": "2.0.72",
+      "tags": ["high-throughput", "electronic-circuit", "mid-game"],
+      "code": "0eNq1Wttu2zgQ/RXCPYtIlCRS8mMFFugD9qUoCkVibKMypUGR26Lwv5eUHdvxJbZTbF8Ei+TM4czhDMlZsCq2TVXXulBBEKiq1kVTB8HXoKrrpm6qQgdBsK6auiqbIAiWTbWp6qYsVVCovCrLplJBsK7rqtRBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJBsK7rqtJB......"
+    },
+    {
+      "id": "bp-003",
+      "name": "铀燃料处理厂",
+      "description": "铀矿处理U-235 / U-238",
+      "factorio_version": "2.0.72",
+      "tags": ["nuclear", "uranium-processing", "automation"],
+      "code": "0eNrNmO2OojAUhu+lv2Ei0IqY7JVMjEGos82Ulu2HO2bive8BHHHG4lCZZElMVNqe5+3p+ai+ox23tFZMGLR+R6yQQqP18zvS7EXkvHkm8oqiNdrRHAbRKUBMlPQNraPTJkBUGGYY7da0X45bYasdVTAh+FhL32pFtQ6NyoWupTLhjnKDAlRLDcvBLHDAZBI9kQAd0TrETwRIJVO06Maj+BTcEGJ/wsKPkPgTEj8C9ifEfgTiTyB+hKU/YelHSP0JqR9h5U9Y+RGyG4KFTFIvSsL7t9EUf2WAYHOsG3NM1NYgBzFaTAjf5AboIjyQ5HhwS9hFiCeEb0Nw2Uwm2ExGHXZ0m9e65swYGLzjEvzVdICkNXC8W6jRUgEBDHK6bxS2x37z3KWlrwAVLZmtQsqBoFgR1pLTe0EQDThw+Ugsk2url+jt9ufUnT5Cwb6UPvO13WmTt8Yc9eQcUk5/9Ll97pPDvW3RymKGVl3XZOVVl9U1pWVYydJyGiaonwjzxJaJA4ClOnYL+2+QhSC8eAXrjTrnCPTrE7wcXXTxvXg8W/HR9+LT2YqPx4dNMjvxfRHdWf4aMqGpcpe35GoPLkt4Sme80xiHkz4mo8WTTwfwmbNnHBadD+R8Lb4YttBSmmIbJwTM/rE578q0kKqCq3WAClnVucrB4/D0F2ru01bT7cWoUZa6tPfFd59rc087nq599bPa0ymNI76u6IO3nng1pW2MZGTjy87sMjfpC34BQ4rt7Qu94xLSbgBih7VOeZWHXNG3kAq4QfyuwEJYK1mAn9HHrK0jYgYcAEtLC1F5gOn+fsCDfsAj/BCNL7/L2R1i/OilLnVX4aSv5xpOjIc8r+o7UTFkBo/PjPk5lYyPiGx24pfj73HzE5+OD5v/LB5a3V/opA37GX5akQB+QZBN0H2GtCSbTQdt9nL5dy1AB2iM7W7IMs5wlpFVlGTZAp9O/wA4anhA"
+    },
+    {
+      "id": "bp-004",
+      "name": "基础传送带生产线",
+      "description": "传送带生产线，输入铁板和绿板",
+      "factorio_version": "2.0.72",
+      "tags": ["logistics", "conveyor-belt", "infrastructure"],
+      "code": "0eNqtWu1umzAUfRf/hgl/YudVqmkiqdciEciAbKuqvPuALISuONxj7U9riDkcn/th+5p3tq/O/tSWdc9276w8NHXHdk/vrCtf6qIa79XF0bMd69ui7k5N26d7X/XskrCyfva/2Y5fkpXuRdf5474q65f0WBxey9qnfPGQuHxNmK/7si/99YXTxdu3+nzc+3ZATW5I3bGoqtRX/tC35SE9NZVnCTs13fBsU4+vHPCk+6IT9sZ2qfiiLyOjf/BE8pDZJ0Bhb4DZAJiw1h/K0/h42TZ1+uKLNv316n3Fbj99+3EuquGNQ5e6aQfObIWFBEeVLUms4KkkYJ7PUPwGxafxPJcD7evvagVYz8Dfi65Py7rzbT/88IDiJ1wuVoANnbGEGOd0YAEBW9BmesNmjk5UQUR5RjaaxozGORg9Mg9Ez6chA8HDBXl87uPrN8cncWSaSegBqrIg51VkTUfmQWS7hnwP0fOQrNuXthn+b7K+6tG/TWZuzv3p3K8aMcdTFl8PJG7hJEWT1uEUA7EuMjRw5GLMi7hZsQQQOYLDmYGklBB0pdyHgW34oEAnSvvYVUREHNJSo4iIQyKywZFJAS7uIVg1gzu+FoNzPT9wChUMn3XiFnR6FXD67jR49pUR4uwudqkn/+dKL8OTiKTEnORw1pMks0kB5P2Zs6ClfSnxdR9NDoWv+2jAGoySOXUS5TZkO6oF8BpSDmd3QVLAxq765P9b9EmHeKULmcDOPlrWARdVGT6ZCUq+VRxP5AFTKxGzNpPLGA2PX+I0A5ttpWJnGEGKHUXenqpgMlm1FDkmlYBwyRGqNmJdgbtRpTfwHJXZPEtqyoh1xPSn1ylqHjMvKZLPaxFZkFEBrhKdNMQHvluqKkQKFTQYQRiNVyloQzCR5ZSQ4jmIl294G31TiQWEQz3DhWRdr6tl+A4nIIEBa69qI4CNwCeWgLWNxEcZggK2hDJk6bVlkwF2hGJDOYNzJEWhyXGOijR4SwdWkKrIOlCFU9J26svpkSRuySQnVag5DmxIwPQAEw5iTA+3eXlAA1Y4ME0KjUtBAzb4goYmBVAQzSBgizOmSXEPxUWFJsTVEE5YMrw4QJLAcrw4QAMWODBJWxtRJ6EBA3USDUkRsVKkARucMU2KHGdMAwYiDpo5LHAiYRBgl+GMSVI4jjOmAUccOdCkACIPmuucoqRLR0+XTuNMadoafHVNkyDHdwA0YIsD06RwuBSGdkif4Wv6PHAAmnF8GZ/TWAoc2YRYSnzEhnZunylw93/DtyGuGq7KuxCUiSnW2PCO5cGhehZbBQnqYOEvIoI6RFXw43RYfAJDK11s+QPncOU2pAMXMTvYSB0W5+e991V6ePXdI7fj16PdfdEGEsLiS5bHiG6JuIqkaUhqjdv03eCvQY3xo8EnnuhEyER/TZ6Gv4mdW1pMTTs2zdz823W6m0/N8U5i+L09RtJ4oez9hxHsBnNtX/uMt5IxBc0XtwfMAmnsfO+VL3rli17jvWR03/Fiuvn3ahhu2fvjINb9Q82E/fRtNymljXDKOW25dC5Tl8sfk2SPQw=="
+    },
+    {
+      "id": "bp-005",
+      "name": "高速电炉生产线",
+      "description": "生产电炉，三条输入一条输出线",
+      "factorio_version": "2.0.72",
+      "tags": ["fast", "efficient", "module", "electric Furnace"],
+      "code": "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"
+    }
+  ]
+}
