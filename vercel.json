@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/search.py": {
-      "runtime": "python3.11"
-    }
-  }
-}
