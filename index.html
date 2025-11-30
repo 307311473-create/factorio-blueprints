@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Factorio 蓝图搜索</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; max-width: 800px; margin: 0 auto; }
+    input { width: 100%; padding: 10px; margin: 10px 0; }
+    .result { border: 1px solid #ccc; padding: 10px; margin: 10px 0; }
+  </style>
+</head>
+<body>
+  <h1>Factorio 蓝图搜索</h1>
+  <input type="text" id="searchInput" placeholder="输入关键词（如 steam, belt...）">
+  <div id="results"></div>
+
+  <script>
+    // 从同目录加载 blueprints.json
+    fetch('blueprints.json')
+      .then(res => res.json())
+      .then(blueprints => {
+        const input = document.getElementById('searchInput');
+        const resultsDiv = document.getElementById('results');
+        
+        function search(query) {
+          if (!query.trim()) {
+            resultsDiv.innerHTML = '<p>请输入关键词...</p>';
+            return;
+          }
+          const q = query.toLowerCase();
+          const filtered = blueprints.filter(bp =>
+            bp.name.toLowerCase().includes(q) ||
+            (bp.description && bp.description.toLowerCase().includes(q)) ||
+            (bp.author && bp.author.toLowerCase().includes(q))
+          );
+          
+          if (filtered.length === 0) {
+            resultsDiv.innerHTML = '<p>未找到结果</p>';
+            return;
+          }
+          
+          resultsDiv.innerHTML = filtered.slice(0, 50).map(bp => `
+            <div class="result">
+              <h3>${bp.name}</h3>
+              <p>${bp.description || ''}</p>
+              <p><strong>作者:</strong> ${bp.author || '未知'}</p>
+              <a href="${bp.url}" target="_blank">查看蓝图</a>
+            </div>
+          `).join('');
+        }
+        
+        input.addEventListener('input', (e) => search(e.target.value));
+      });
+  </script>
+</body>
+</html>
