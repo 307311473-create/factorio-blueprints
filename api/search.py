@@ -1,36 +1,51 @@
 import json
 import os
 
-# 加载蓝图数据
 def load_blueprints():
-    with open('blueprints.json', 'r', encoding='utf-8') as f:
+    # 安全地定位 blueprints.json
+    current_dir = os.path.dirname(__file__)
+    project_root = os.path.abspath(os.path.join(current_dir, '..'))
+    json_path = os.path.join(project_root, 'blueprints.json')
+    
+    with open(json_path, 'r', encoding='utf-8') as f:
         return json.load(f)['blueprints']
 
-# Vercel 要求的 handler 函数
 def handler(request):
-    # 获取查询参数
     keyword = request.args.get('keyword', '').strip().lower()
     
     if not keyword:
         return {
             'statusCode': 400,
             'headers': {'Content-Type': 'application/json'},
-            'body': json.dumps({'error': 'Missing or empty keyword parameter'})
+            'body': json.dumps({'error': 'Missing keyword parameter'})
         }
     
     try:
         blueprints = load_blueprints()
+    except FileNotFoundError:
+        return {
+            'statusCode': 500,
+            'headers': {'Content-Type': 'application/json'},
+            'body': json.dumps({'error': 'blueprints.json not found'})
+        }
+    except json.JSONDecodeError as e:
+        return {
+            'statusCode': 500,
+            'headers': {'Content-Type': 'application/json'},
+            'body': json.dumps({'error': 'Invalid JSON in blueprints.json', 'details': str(e)})
+        }
     except Exception as e:
         return {
             'statusCode': 500,
             'headers': {'Content-Type': 'application/json'},
-            'body': json.dumps({'error': 'Failed to load blueprints', 'details': str(e)})
+            'body': json.dumps({'error': 'Unexpected error', 'details': str(e)})
         }
     
-    # 搜索逻辑
     results = []
     for bp in blueprints:
-        if (keyword in bp['name'].lower()) or any(keyword in tag.lower() for tag in bp['tags']):
+        name_match = keyword in bp['name'].lower()
+        tag_match = any(keyword in tag.lower() for tag in bp['tags'])
+        if name_match or tag_match:
             results.append(bp)
     
     response = {
@@ -45,5 +60,5 @@ def handler(request):
             'Content-Type': 'application/json',
             'Access-Control-Allow-Origin': '*'
         },
-        'body': json.dumps(response, ensure_ascii=False, indent=2)
+        'body': json.dumps(response, ensure_ascii=False)
     }
