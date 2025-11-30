@@ -1,56 +1,79 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <title>Factorio 蓝图搜索</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Factorio 蓝图库</title>
   <style>
-    body { font-family: sans-serif; padding: 20px; max-width: 800px; margin: 0 auto; }
-    input { width: 100%; padding: 10px; margin: 10px 0; }
-    .result { border: 1px solid #ccc; padding: 10px; margin: 10px 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+    h1 { text-align: center; color: #333; }
+    input { width: 100%; padding: 0.75rem; margin: 1rem 0; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem; }
+    .result { border: 1px solid #eee; padding: 1rem; margin: 1rem 0; border-radius: 4px; }
+    .result h3 { margin-top: 0; color: #0066cc; }
+    .result a { color: #d73a49; text-decoration: none; }
+    .result a:hover { text-decoration: underline; }
+    .loading { text-align: center; color: #666; }
   </style>
 </head>
 <body>
-  <h1>Factorio 蓝图搜索</h1>
-  <input type="text" id="searchInput" placeholder="输入关键词（如 steam, belt...）">
-  <div id="results"></div>
+  <h1>🔍 Factorio 蓝图搜索</h1>
+  <input type="text" id="searchInput" placeholder="输入关键词（如 steam, belt, train...）">
+
+  <div id="results" class="loading">正在加载蓝图...</div>
 
   <script>
-    // 从同目录加载 blueprints.json
-    fetch('blueprints.json')
-      .then(res => res.json())
-      .then(blueprints => {
-        const input = document.getElementById('searchInput');
-        const resultsDiv = document.getElementById('results');
-        
-        function search(query) {
-          if (!query.trim()) {
-            resultsDiv.innerHTML = '<p>请输入关键词...</p>';
-            return;
-          }
-          const q = query.toLowerCase();
-          const filtered = blueprints.filter(bp =>
-            bp.name.toLowerCase().includes(q) ||
-            (bp.description && bp.description.toLowerCase().includes(q)) ||
-            (bp.author && bp.author.toLowerCase().includes(q))
-          );
-          
-          if (filtered.length === 0) {
-            resultsDiv.innerHTML = '<p>未找到结果</p>';
-            return;
-          }
-          
-          resultsDiv.innerHTML = filtered.slice(0, 50).map(bp => `
-            <div class="result">
-              <h3>${bp.name}</h3>
-              <p>${bp.description || ''}</p>
-              <p><strong>作者:</strong> ${bp.author || '未知'}</p>
-              <a href="${bp.url}" target="_blank">查看蓝图</a>
-            </div>
-          `).join('');
-        }
-        
-        input.addEventListener('input', (e) => search(e.target.value));
-      });
+    async function loadBlueprints() {
+      try {
+        const response = await fetch('blueprints.json');
+        if (!response.ok) throw new Error('无法加载 blueprints.json');
+        const blueprints = await response.json();
+        return blueprints;
+      } catch (error) {
+        document.getElementById('results').innerHTML = `<p style="color:red">❌ ${error.message}</p>`;
+        return [];
+      }
+    }
+
+    function renderResults(blueprints, query = '') {
+      const resultsDiv = document.getElementById('results');
+      if (!query.trim()) {
+        resultsDiv.innerHTML = '<p>请输入关键词进行搜索...</p>';
+        return;
+      }
+
+      const q = query.toLowerCase();
+      const filtered = blueprints.filter(bp =>
+        bp.name?.toLowerCase().includes(q) ||
+        bp.description?.toLowerCase().includes(q) ||
+        bp.author?.toLowerCase().includes(q)
+      );
+
+      if (filtered.length === 0) {
+        resultsDiv.innerHTML = '<p>未找到匹配的蓝图 😢</p>';
+        return;
+      }
+
+      resultsDiv.innerHTML = filtered.slice(0, 50).map(bp => `
+        <div class="result">
+          <h3>${bp.name || '无标题'}</h3>
+          <p>${bp.description || ''}</p>
+          <p><strong>作者:</strong> ${bp.author || '未知'}</p>
+          <a href="${bp.url}" target="_blank" rel="noopener">🔗 查看蓝图</a>
+        </div>
+      `).join('');
+    }
+
+    // 初始化
+    let allBlueprints = [];
+    loadBlueprints().then(data => {
+      allBlueprints = data;
+      document.getElementById('results').innerHTML = '<p>✅ 蓝图加载完成！请输入关键词搜索。</p>';
+    });
+
+    // 搜索
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      renderResults(allBlueprints, e.target.value);
+    });
   </script>
 </body>
 </html>
