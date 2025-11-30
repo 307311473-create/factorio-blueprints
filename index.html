@@ -1,79 +1,167 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Factorio 蓝图库</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Factorio 蓝图库 - 一键复制建造</title>
   <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
-    h1 { text-align: center; color: #333; }
-    input { width: 100%; padding: 0.75rem; margin: 1rem 0; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem; }
-    .result { border: 1px solid #eee; padding: 1rem; margin: 1rem 0; border-radius: 4px; }
-    .result h3 { margin-top: 0; color: #0066cc; }
-    .result a { color: #d73a49; text-decoration: none; }
-    .result a:hover { text-decoration: underline; }
-    .loading { text-align: center; color: #666; }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 20px;
+    }
+    .search-box {
+      display: flex;
+      margin-bottom: 20px;
+    }
+    #searchInput {
+      flex: 1;
+      padding: 12px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 6px 0 0 6px;
+      outline: none;
+    }
+    .search-btn {
+      padding: 12px 20px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 0 6px 6px 0;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    .search-btn:hover {
+      background: #0056b3;
+    }
+    .result {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 16px;
+      margin-bottom: 16px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    .result h3 {
+      margin-top: 0;
+      color: #0066cc;
+    }
+    .result p {
+      margin: 8px 0;
+      line-height: 1.5;
+    }
+    .copy-btn {
+      background: #28a745;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      margin-top: 8px;
+    }
+    .copy-btn:hover {
+      background: #218838;
+    }
+    .empty {
+      text-align: center;
+      color: #666;
+      padding: 40px 0;
+    }
+    .loading {
+      text-align: center;
+      padding: 20px;
+      color: #555;
+    }
+    @media (max-width: 600px) {
+      .search-box { flex-direction: column; }
+      .search-btn { border-radius: 6px; margin-top: 8px; }
+    }
   </style>
 </head>
 <body>
-  <h1>🔍 Factorio 蓝图搜索</h1>
-  <input type="text" id="searchInput" placeholder="输入关键词（如 steam, belt, train...）">
-
-  <div id="results" class="loading">正在加载蓝图...</div>
+  <h1>🔍 Factorio 蓝图库</h1>
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="输入关键词（如 齿轮、电路、铀...）" />
+    <button class="search-btn">搜索</button>
+  </div>
+  <div id="results" class="loading">正在加载蓝图数据...</div>
 
   <script>
-    async function loadBlueprints() {
-      try {
-        const response = await fetch('blueprints.json');
-        if (!response.ok) throw new Error('无法加载 blueprints.json');
-        const blueprints = await response.json();
-        return blueprints;
-      } catch (error) {
-        document.getElementById('results').innerHTML = `<p style="color:red">❌ ${error.message}</p>`;
-        return [];
-      }
-    }
+    let blueprints = [];
 
-    function renderResults(blueprints, query = '') {
+    // 加载蓝图数据
+    fetch('blueprints.json')
+      .then(response => {
+        if (!response.ok) throw new Error('无法加载 blueprints.json');
+        return response.json();
+      })
+      .then(data => {
+        blueprints = data;
+        document.getElementById('results').innerHTML = '<div class="empty">请输入关键词开始搜索</div>';
+      })
+      .catch(err => {
+        document.getElementById('results').innerHTML = `<div class="empty" style="color:red">❌ ${err.message}</div>`;
+      });
+
+    // 搜索函数
+    function performSearch(query) {
       const resultsDiv = document.getElementById('results');
       if (!query.trim()) {
-        resultsDiv.innerHTML = '<p>请输入关键词进行搜索...</p>';
+        resultsDiv.innerHTML = '<div class="empty">请输入关键词开始搜索</div>';
         return;
       }
 
       const q = query.toLowerCase();
       const filtered = blueprints.filter(bp =>
-        bp.name?.toLowerCase().includes(q) ||
-        bp.description?.toLowerCase().includes(q) ||
-        bp.author?.toLowerCase().includes(q)
+        (bp.name && bp.name.toLowerCase().includes(q)) ||
+        (bp.description && bp.description.toLowerCase().includes(q)) ||
+        (bp.tags && bp.tags.some(tag => tag.toLowerCase().includes(q)))
       );
 
       if (filtered.length === 0) {
-        resultsDiv.innerHTML = '<p>未找到匹配的蓝图 😢</p>';
+        resultsDiv.innerHTML = '<div class="empty">未找到匹配的蓝图 😢</div>';
         return;
       }
 
-      resultsDiv.innerHTML = filtered.slice(0, 50).map(bp => `
+      resultsDiv.innerHTML = filtered.map(bp => `
         <div class="result">
           <h3>${bp.name || '无标题'}</h3>
-          <p>${bp.description || ''}</p>
-          <p><strong>作者:</strong> ${bp.author || '未知'}</p>
-          <a href="${bp.url}" target="_blank" rel="noopener">🔗 查看蓝图</a>
+          <p><strong>描述：</strong>${bp.description || '无描述'}</p>
+          <p><strong>标签：</strong>${bp.tags ? bp.tags.join(', ') : '无'}</p>
+          <p><strong>版本：</strong>${bp.factorio_version || '未知'}</p>
+          <button class="copy-btn" onclick="copyBlueprint('${bp.code.replace(/'/g, "\\'")}')">
+            📋 复制蓝图代码（粘贴到游戏）
+          </button>
         </div>
       `).join('');
     }
 
-    // 初始化
-    let allBlueprints = [];
-    loadBlueprints().then(data => {
-      allBlueprints = data;
-      document.getElementById('results').innerHTML = '<p>✅ 蓝图加载完成！请输入关键词搜索。</p>';
-    });
+    // 复制函数
+    function copyBlueprint(code) {
+      navigator.clipboard.writeText(code).then(() => {
+        alert('✅ 蓝图代码已复制！\n\n在游戏中按 Shift + 左键 即可粘贴建造。');
+      }).catch(err => {
+        console.error('复制失败:', err);
+        alert('❌ 复制失败，请手动复制代码。');
+      });
+    }
 
-    // 搜索
-    document.getElementById('searchInput').addEventListener('input', (e) => {
-      renderResults(allBlueprints, e.target.value);
-    });
+    // 绑定搜索事件
+    const input = document.getElementById('searchInput');
+    const button = document.querySelector('.search-btn');
+
+    input.addEventListener('input', (e) => performSearch(e.target.value));
+    button.addEventListener('click', () => performSearch(input.value));
   </script>
 </body>
 </html>
