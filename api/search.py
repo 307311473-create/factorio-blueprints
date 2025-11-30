@@ -1,8 +1,2 @@
 def handler(request):
-    return {
-        "statusCode": 200,
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": '{"status": "ok", "message": "Function loaded successfully"}'
-    }
+    return {"statusCode": 200, "body": "OK"}
