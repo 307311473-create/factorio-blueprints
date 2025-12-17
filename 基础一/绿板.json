@@ -1,0 +1,277 @@
+{
+  "blueprint": {
+    "item": "blueprint",
+    "label": "480/s",
+    "shift_x": -860,
+    "shift_y": -1018,
+    "version": 562949958139904,
+    "entities": [
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 1.5, "y": -2.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 4.5, "y": -2.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 7.5, "y": -2.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 10.5, "y": -2.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 1.5, "y": 8.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 4.5, "y": 8.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 7.5, "y": 8.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 10.5, "y": 8.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[item=iron-plate]:180/s",
+        "icon": {"name": "iron-plate"},
+        "position": {"x": 15.5, "y": -0.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[item=copper-plate]:100/s",
+        "icon": {"name": "copper-plate"},
+        "position": {"x": 15.5, "y": 0.5}
+      },
+      {
+        "name": "electromagnetic-plant",
+        "quality": "legendary",
+        "recipe": "electronic-circuit",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 7, "y": 3}
+      },
+      {
+        "name": "electromagnetic-plant",
+        "quality": "legendary",
+        "recipe": "copper-cable",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 12, "y": 3}
+      },
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": -0.5, "y": -1.5}
+      },
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 12.5, "y": -1.5}
+      },
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": -0.5, "y": 7.5}},
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": 12.5, "y": 7.5}},
+      {"name": "stack-inserter", "direction": 8, "quality": "legendary", "position": {"x": 5.5, "y": 0.5}},
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 4.5, "y": 1.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 6.5, "y": 0.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 7.5, "y": 0.5}},
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 4.5, "y": 2.5}},
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 4.5, "y": 3.5}},
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 4.5, "y": 4.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 5.5, "y": 5.5}},
+      {"name": "stack-inserter", "direction": 8, "quality": "legendary", "position": {"x": 7.5, "y": 5.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 8.5, "y": 0.5}},
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 9.5, "y": 1.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 10.5, "y": 0.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 11.5, "y": 0.5}},
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 9.5, "y": 2.5}},
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 9.5, "y": 3.5}},
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 9.5, "y": 4.5}},
+      {"name": "stack-inserter", "direction": 8, "quality": "legendary", "position": {"x": 8.5, "y": 5.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 10.5, "y": 5.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 11.5, "y": 5.5}},
+      {"name": "substation", "position": {"x": 0, "y": 6}},
+      {"name": "substation", "position": {"x": 13, "y": 6}},
+      {
+        "name": "turbo-splitter",
+        "direction": 12,
+        "output_priority": "left",
+        "position": {"x": 2.5, "y": 2}
+      },
+      {
+        "name": "turbo-splitter",
+        "direction": 12,
+        "output_priority": "right",
+        "position": {"x": 2.5, "y": 4}
+      },
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 1.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 2.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 3.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 4.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 5.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 6.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 7.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 10.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 11.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 12.5, "y": -0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": -0.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": -0.5, "y": 2.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 1.5, "y": 0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 0.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 1.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 3.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 0.5, "y": 2.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 1.5, "y": 2.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 0.5, "y": 3.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 1.5, "y": 3.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 3.5, "y": 2.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 3.5, "y": 3.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 1.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 1.5, "y": 5.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 3.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 1.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 2.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 3.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 4.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 5.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 7.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 12.5, "y": 0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 13.5, "y": 0.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 8.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 9.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 10.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 11.5, "y": 6.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 8.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 13.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 14.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 16.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 14.5, "y": 0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 16.5, "y": 0.5}
+      }
+    ],
+    "icons": [{"index": 1, "signal": {"name": "electronic-circuit"}}],
+    "wires": [["0.5,8.5", 5, "13.5,8.5", 5]]
+  }
+}
