@@ -1,0 +1,3149 @@
+{
+  "blueprint": {
+    "item": "blueprint",
+    "label": "140/s",
+    "shift_x": -465,
+    "shift_y": -510,
+    "version": 562949958139904,
+    "entities": [
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 3.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 6.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 9.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 25.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 28.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 31.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": -2.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 0.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 3.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 6.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 3.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 12.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 15.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 6.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 0.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 6.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 9.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 12.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 18.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 3.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 6.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 3.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 6.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 9.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 18.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 9.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 0.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 6.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 12.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 25.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 28.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 31.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 18.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 25.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 28.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 31.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 25.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 28.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 31.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 3.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 6.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 3.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 6.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 9.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 9.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 48.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 51.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 54.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 0.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 3.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 61.5, "y": 1.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 6.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 48.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 54.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 9.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 61.5, "y": 11.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 12.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 25.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 28.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 31.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 25.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 28.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 31.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 48.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 54.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 22.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 25.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 28.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 31.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 0.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 3.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 6.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 9.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 12.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 15.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 18.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 21.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 29.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 37.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 45.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 48.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 51.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 54.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 57.5, "y": 34.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 73.5, "y": 1.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 67.5, "y": 11.5}
+      },
+      {
+        "name": "beacon",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 1, "stack": 0}, {"inventory": 1, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 73.5, "y": 11.5}
+      },
+      {
+        "name": "cryogenic-plant",
+        "quality": "legendary",
+        "recipe": "fusion-power-cell",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4},
+                {"inventory": 4, "stack": 5},
+                {"inventory": 4, "stack": 6},
+                {"inventory": 4, "stack": 7}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 3.5, "y": 6.5}
+      },
+      {
+        "name": "cryogenic-plant",
+        "quality": "legendary",
+        "recipe": "fusion-power-cell",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4},
+                {"inventory": 4, "stack": 5},
+                {"inventory": 4, "stack": 6},
+                {"inventory": 4, "stack": 7}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 15.5, "y": 6.5}
+      },
+      {
+        "name": "cryogenic-plant",
+        "direction": 8,
+        "quality": "legendary",
+        "recipe": "fusion-power-cell",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4},
+                {"inventory": 4, "stack": 5},
+                {"inventory": 4, "stack": 6},
+                {"inventory": 4, "stack": 7}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 3.5, "y": 28.5}
+      },
+      {
+        "name": "cryogenic-plant",
+        "direction": 8,
+        "quality": "legendary",
+        "recipe": "fusion-power-cell",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4},
+                {"inventory": 4, "stack": 5},
+                {"inventory": 4, "stack": 6},
+                {"inventory": 4, "stack": 7}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 15.5, "y": 28.5}
+      },
+      {
+        "name": "cryogenic-plant",
+        "quality": "legendary",
+        "recipe": "lithium",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4},
+                {"inventory": 4, "stack": 5},
+                {"inventory": 4, "stack": 6},
+                {"inventory": 4, "stack": 7}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 51.5, "y": 6.5}
+      },
+      {
+        "name": "cryogenic-plant",
+        "direction": 8,
+        "quality": "legendary",
+        "recipe": "lithium",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4},
+                {"inventory": 4, "stack": 5},
+                {"inventory": 4, "stack": 6},
+                {"inventory": 4, "stack": 7}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 51.5, "y": 28.5}
+      },
+      {
+        "name": "cryogenic-plant",
+        "direction": 8,
+        "quality": "legendary",
+        "recipe": "ammoniacal-solution-separation",
+        "recipe_quality": "normal",
+        "control_behavior": {"read_contents": true},
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4},
+                {"inventory": 4, "stack": 5},
+                {"inventory": 4, "stack": 6},
+                {"inventory": 4, "stack": 7}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 67.5, "y": 7.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[fluid=ammoniacal-solution]:3000/s",
+        "icon": {"name": "ammoniacal-solution", "type": "fluid"},
+        "position": {"x": 68.5, "y": 1.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[fluid=lithium-brine]:600/s",
+        "icon": {"name": "lithium-brine", "type": "fluid"},
+        "position": {"x": 74.5, "y": 17.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[item=holmium-plate]:60/s",
+        "icon": {"name": "holmium-plate"},
+        "position": {"x": 74.5, "y": 18.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 25.5, "y": 2.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 25.5, "y": 8.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 25.5, "y": 26.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 33.5, "y": 2.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 41.5, "y": 2.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 33.5, "y": 8.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 41.5, "y": 8.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 33.5, "y": 26.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 41.5, "y": 26.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 25.5, "y": 32.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 33.5, "y": 32.5}
+      },
+      {
+        "name": "electric-furnace",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "productivity-module-3", "quality": "legendary"},
+            "items": {"in_inventory": [{"inventory": 4, "stack": 0}, {"inventory": 4, "stack": 1}]}
+          }
+        ],
+        "position": {"x": 41.5, "y": 32.5}
+      },
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 60.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 61.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 62.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 65.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 66.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 68.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 69.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 72.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 73.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 74.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": -0.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": -3.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": -2.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": -3.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": -1.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": -3.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": -3.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": -3.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": -3.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": -2.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": -1.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": -0.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 1.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 5.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 13.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 1.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 5.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 1.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 5.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 13.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 8.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 9.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 9.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 10.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 13.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 17.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 24.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 17.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 17.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 20.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 21.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 20.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 21.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 22.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 22.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 24.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 24.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 24.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 25.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 28.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 29.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 29.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 30.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 1.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 5.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 9.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 9.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 8.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 9.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 10.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 13.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 1.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 5.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 13.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 20.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 21.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 21.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 22.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 17.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 20.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 21.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 22.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 25.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 24.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 25.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 24.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 28.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 29.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 30.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 17.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": 24.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 26.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 32.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 34.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 42.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 32.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 32.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 33.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 34.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 36.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 37.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 37.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 38.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 41.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 42.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 42.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 44.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 45.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 45.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 46.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 48.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 50.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 52.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 53.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 60.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 61.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 60.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 61.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 48.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 50.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 52.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 53.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 48.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 50.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 52.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 53.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 60.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 61.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 62.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 56.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 57.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 56.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 57.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 58.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 60.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 61.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 62.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 32.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 33.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 34.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 36.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 37.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 38.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 42.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 45.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 45.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 46.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 45.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 46.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 41.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 42.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 44.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 45.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 46.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 34.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": 32.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 34.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 42.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 40.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 50.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 53.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 48.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 50.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 21.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 22.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 23.5}},
+      {"name": "heat-pipe", "position": {"x": 52.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 53.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 57.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 57.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 60.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 61.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 62.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 56.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 57.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 58.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 59.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 60.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 61.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 62.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 63.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 48.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 50.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 52.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 53.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 24.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 25.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 26.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 27.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 28.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 29.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 30.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 31.5}},
+      {"name": "heat-pipe", "position": {"x": 0.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 1.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 2.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 3.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 4.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 5.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 6.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 7.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 11.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 12.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 13.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 14.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 15.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 16.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 17.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 18.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 19.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 33.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 34.5}},
+      {"name": "heat-pipe", "position": {"x": 23.5, "y": 35.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 33.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 34.5}},
+      {"name": "heat-pipe", "position": {"x": 27.5, "y": 35.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 33.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 34.5}},
+      {"name": "heat-pipe", "position": {"x": 31.5, "y": 35.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 33.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 34.5}},
+      {"name": "heat-pipe", "position": {"x": 35.5, "y": 35.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 33.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 34.5}},
+      {"name": "heat-pipe", "position": {"x": 39.5, "y": 35.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 33.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 34.5}},
+      {"name": "heat-pipe", "position": {"x": 43.5, "y": 35.5}},
+      {"name": "heat-pipe", "position": {"x": 47.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 48.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 49.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 50.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 51.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 52.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 53.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 54.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 55.5, "y": 32.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 65.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 69.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 0.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 1.5}},
+      {"name": "heat-pipe", "position": {"x": 73.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 2.5}},
+      {"name": "heat-pipe", "position": {"x": 74.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 3.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 4.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 5.5}},
+      {"name": "heat-pipe", "position": {"x": 73.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 74.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 6.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 7.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 65.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 66.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 66.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 66.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 68.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 69.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 68.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 68.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 72.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 73.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 8.5}},
+      {"name": "heat-pipe", "position": {"x": 74.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 9.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 10.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 11.5}},
+      {"name": "heat-pipe", "position": {"x": 72.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 73.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 12.5}},
+      {"name": "heat-pipe", "position": {"x": 74.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 13.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 14.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 15.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 64.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 65.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 66.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 67.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 68.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 69.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 70.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 71.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 72.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 73.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 74.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 16.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 17.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 18.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 19.5}},
+      {"name": "heat-pipe", "position": {"x": 72.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 73.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 74.5, "y": 20.5}},
+      {"name": "heat-pipe", "position": {"x": 75.5, "y": 20.5}},
+      {"name": "long-handed-inserter", "quality": "legendary", "position": {"x": 50.5, "y": 9.5}},
+      {
+        "name": "long-handed-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 52.5, "y": 9.5}
+      },
+      {"name": "long-handed-inserter", "quality": "legendary", "position": {"x": 50.5, "y": 15.5}},
+      {
+        "name": "long-handed-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 50.5, "y": 19.5}
+      },
+      {
+        "name": "long-handed-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 50.5, "y": 25.5}
+      },
+      {"name": "long-handed-inserter", "quality": "legendary", "position": {"x": 52.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 1.5, "y": 16.5}},
+      {"name": "pipe", "position": {"x": 13.5, "y": 16.5}},
+      {"name": "pipe", "position": {"x": 49.5, "y": 16.5}},
+      {"name": "pipe", "position": {"x": 51.5, "y": 17.5}},
+      {"name": "pipe", "position": {"x": 53.5, "y": 16.5}},
+      {"name": "pipe", "position": {"x": 69.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 65.5, "y": 16.5}},
+      {"name": "pipe", "position": {"x": 69.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "position": {"x": 1.5, "y": 9.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 1.5, "y": 15.5}},
+      {"name": "pipe-to-ground", "position": {"x": 13.5, "y": 9.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 13.5, "y": 15.5}},
+      {"name": "pipe-to-ground", "position": {"x": 1.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 2.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 12.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "position": {"x": 13.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 14.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 1.5, "y": 25.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 13.5, "y": 25.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 21.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 22.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 28.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 29.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "position": {"x": 51.5, "y": 9.5}},
+      {"name": "pipe-to-ground", "position": {"x": 53.5, "y": 9.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 53.5, "y": 15.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 37.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 38.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 48.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "position": {"x": 49.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 50.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 51.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "position": {"x": 51.5, "y": 18.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 52.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 52.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 54.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 56.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 57.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 56.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 57.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 49.5, "y": 25.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 51.5, "y": 25.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 70.5, "y": 1.5}},
+      {"name": "pipe-to-ground", "position": {"x": 69.5, "y": 2.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 69.5, "y": 4.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 76.5, "y": 1.5}},
+      {"name": "pipe-to-ground", "position": {"x": 65.5, "y": 10.5}},
+      {"name": "pipe-to-ground", "position": {"x": 69.5, "y": 10.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 65.5, "y": 15.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 69.5, "y": 15.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 64.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 65.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 66.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 66.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 68.5, "y": 16.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 68.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 69.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 76.5, "y": 17.5}},
+      {
+        "name": "recycler",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 63, "y": 7}
+      },
+      {
+        "name": "recycler",
+        "quality": "legendary",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 72, "y": 7}
+      },
+      {"name": "stack-inserter", "direction": 4, "quality": "legendary", "position": {"x": 6.5, "y": 7.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 3.5, "y": 9.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 15.5, "y": 9.5}},
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 18.5, "y": 7.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 25.5, "y": 4.5}
+      },
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 26.5, "y": 4.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 24.5, "y": 6.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 25.5, "y": 10.5}},
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 3.5, "y": 25.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 6.5, "y": 27.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 15.5, "y": 25.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 18.5, "y": 27.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 25.5, "y": 24.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 26.5, "y": 28.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 24.5, "y": 30.5}
+      },
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 25.5, "y": 30.5}},
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 33.5, "y": 4.5}
+      },
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 34.5, "y": 4.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 32.5, "y": 6.5}},
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 41.5, "y": 4.5}
+      },
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 42.5, "y": 4.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 40.5, "y": 6.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 33.5, "y": 10.5}},
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 41.5, "y": 10.5}},
+      {
+        "name": "stack-inserter",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 61.5, "y": 5.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 61.5, "y": 7.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 48.5, "y": 8.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 61.5, "y": 8.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 33.5, "y": 24.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 34.5, "y": 28.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 32.5, "y": 30.5}
+      },
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 33.5, "y": 30.5}},
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 41.5, "y": 24.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 40.5, "y": 28.5}
+      },
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 41.5, "y": 30.5}},
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 42.5, "y": 30.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 48.5, "y": 26.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 64.5, "y": 5.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 66.5, "y": 4.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 64.5, "y": 6.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 68.5, "y": 4.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 70.5, "y": 5.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 70.5, "y": 6.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 73.5, "y": 5.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 73.5, "y": 7.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 73.5, "y": 8.5}
+      },
+      {"name": "substation", "position": {"x": 7, "y": 6}},
+      {"name": "substation", "position": {"x": 19, "y": 6}},
+      {"name": "substation", "position": {"x": 26, "y": 0}},
+      {"name": "substation", "position": {"x": 7, "y": 29}},
+      {"name": "substation", "position": {"x": 19, "y": 29}},
+      {"name": "substation", "position": {"x": 42, "y": 0}},
+      {"name": "substation", "position": {"x": 48, "y": 7}},
+      {"name": "substation", "position": {"x": 61, "y": 15}},
+      {"name": "substation", "position": {"x": 34, "y": 18}},
+      {"name": "substation", "position": {"x": 61, "y": 19}},
+      {"name": "substation", "position": {"x": 48, "y": 28}},
+      {"name": "substation", "position": {"x": 26, "y": 35}},
+      {"name": "substation", "position": {"x": 42, "y": 35}},
+      {"name": "substation", "position": {"x": 67, "y": 2}},
+      {"name": "turbo-splitter", "direction": 12, "position": {"x": 9.5, "y": 18}},
+      {"name": "turbo-splitter", "direction": 12, "position": {"x": 20.5, "y": 18}},
+      {"name": "turbo-splitter", "direction": 8, "position": {"x": 24, "y": 16.5}},
+      {"name": "turbo-splitter", "position": {"x": 24, "y": 18.5}},
+      {"name": "turbo-splitter", "direction": 12, "position": {"x": 42.5, "y": 18}},
+      {"name": "turbo-splitter", "direction": 12, "position": {"x": 53.5, "y": 19}},
+      {"name": "turbo-splitter", "direction": 12, "position": {"x": 55.5, "y": 19}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 24.5, "y": 5.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 25.5, "y": 11.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 24.5, "y": 15.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 25.5, "y": 15.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 3.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 7.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 7.5, "y": 18.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 8.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 8.5, "y": 18.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 15.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 19.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 18.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 21.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 22.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 23.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 24.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 25.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 26.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 27.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 24.5, "y": 19.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 28.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 28.5, "y": 18.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 24.5, "y": 23.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 25.5, "y": 23.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 41.5, "y": 5.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 41.5, "y": 11.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 42.5, "y": 11.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 62.5, "y": 3.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 60.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 61.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 62.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 63.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 50.5, "y": 11.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 50.5, "y": 12.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 50.5, "y": 13.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 60.5, "y": 8.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 41.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 41.5, "y": 18.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 47.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 42.5, "y": 23.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 41.5, "y": 29.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 54.5, "y": 18.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 50.5, "y": 21.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 50.5, "y": 22.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 50.5, "y": 23.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 71.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 72.5, "y": 3.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 72.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 73.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 74.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 74.5, "y": 8.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": -3.5, "y": 17.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 7.5, "y": 7.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 3.5, "y": 10.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 15.5, "y": 10.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 19.5, "y": 7.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 25.5, "y": 5.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 26.5, "y": 5.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 26.5, "y": 10.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 26.5, "y": 11.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 25.5, "y": 12.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 25.5, "y": 14.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 3.5, "y": 16.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 2.5, "y": 17.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 3.5, "y": 18.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 4.5, "y": 17.5}
+      },
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 7.5, "y": 16.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 7.5, "y": 19.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 10.5, "y": 18.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 15.5, "y": 16.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 14.5, "y": 17.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 15.5, "y": 18.5}},
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 3.5, "y": 24.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 7.5, "y": 27.5}
+      },
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 15.5, "y": 24.5}},
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 19.5, "y": 16.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 16.5, "y": 18.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 17.5, "y": 18.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 19.5, "y": 19.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 25.5, "y": 16.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 25.5, "y": 19.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 27.5, "y": 18.5}
+      },
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 25.5, "y": 22.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 26.5, "y": 23.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 19.5, "y": 27.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 24.5, "y": 24.5}},
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 24.5, "y": 29.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 25.5, "y": 29.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 26.5, "y": 29.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 32.5, "y": 5.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 33.5, "y": 5.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 34.5, "y": 5.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 40.5, "y": 5.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 42.5, "y": 5.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 41.5, "y": 6.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 33.5, "y": 11.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 34.5, "y": 10.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 34.5, "y": 11.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 40.5, "y": 11.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 42.5, "y": 10.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 47.5, "y": 8.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 63.5, "y": 3.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 60.5, "y": 5.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 60.5, "y": 7.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 52.5, "y": 11.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 33.5, "y": 19.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 34.5, "y": 19.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 32.5, "y": 23.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 33.5, "y": 23.5}
+      },
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 41.5, "y": 16.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 43.5, "y": 17.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 41.5, "y": 19.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 47.5, "y": 16.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 46.5, "y": 17.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 44.5, "y": 19.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 45.5, "y": 19.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 47.5, "y": 18.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 41.5, "y": 23.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 32.5, "y": 24.5}},
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 32.5, "y": 29.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 33.5, "y": 29.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 34.5, "y": 29.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 42.5, "y": 24.5}},
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 47.5, "y": 26.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 41.5, "y": 28.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 40.5, "y": 29.5}
+      },
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 42.5, "y": 29.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 48.5, "y": 17.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 50.5, "y": 17.5}
+      },
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 52.5, "y": 18.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 52.5, "y": 19.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 54.5, "y": 19.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 52.5, "y": 23.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 56.5, "y": 18.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 66.5, "y": 3.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "input",
+        "position": {"x": 68.5, "y": 3.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "output",
+        "position": {"x": 71.5, "y": 3.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 74.5, "y": 5.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 74.5, "y": 7.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 65.5, "y": 18.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 66.5, "y": 18.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 68.5, "y": 18.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 69.5, "y": 18.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 76.5, "y": 18.5}
+      }
+    ],
+    "icons": [{"index": 1, "signal": {"name": "fusion-power-cell"}}],
+    "wires": [
+      ["29.5,0.5", 5, "45.5,0.5", 5],
+      ["29.5,0.5", 5, "22.5,6.5", 5],
+      ["45.5,0.5", 5, "51.5,7.5", 5],
+      ["70.5,2.5", 5, "64.5,15.5", 5],
+      ["10.5,6.5", 5, "22.5,6.5", 5],
+      ["51.5,7.5", 5, "64.5,15.5", 5],
+      ["51.5,7.5", 5, "37.5,18.5", 5],
+      ["64.5,15.5", 5, "64.5,19.5", 5],
+      ["37.5,18.5", 5, "51.5,28.5", 5],
+      ["64.5,19.5", 5, "51.5,28.5", 5],
+      ["10.5,29.5", 5, "22.5,29.5", 5],
+      ["22.5,29.5", 5, "29.5,35.5", 5],
+      ["51.5,28.5", 5, "45.5,35.5", 5],
+      ["29.5,35.5", 5, "45.5,35.5", 5]
+    ]
+  }
+}

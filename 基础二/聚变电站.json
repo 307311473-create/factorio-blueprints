@@ -1,0 +1,756 @@
+{
+  "blueprint": {
+    "item": "blueprint",
+    "label": "3.5 GW",
+    "description": "It's specifically built to store more than 1000 fusion power cells for longer space ship trips via belts without refueling. The blueprint can be reused on planets if necessary.",
+    "shift_x": -245,
+    "shift_y": -777,
+    "version": 562949958139904,
+    "entities": [
+      {
+        "name": "assembling-machine-3",
+        "direction": 4,
+        "quality": "legendary",
+        "recipe": "empty-fluoroketone-cold-barrel",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 26.5, "y": 12.5}
+      },
+      {
+        "name": "cryogenic-plant",
+        "direction": 4,
+        "quality": "legendary",
+        "recipe": "fluoroketone-cooling",
+        "recipe_quality": "normal",
+        "items": [
+          {
+            "id": {"name": "speed-module-3", "quality": "legendary"},
+            "items": {
+              "in_inventory": [
+                {"inventory": 4, "stack": 0},
+                {"inventory": 4, "stack": 1},
+                {"inventory": 4, "stack": 2},
+                {"inventory": 4, "stack": 3},
+                {"inventory": 4, "stack": 4},
+                {"inventory": 4, "stack": 5},
+                {"inventory": 4, "stack": 6},
+                {"inventory": 4, "stack": 7}
+              ]
+            }
+          }
+        ],
+        "position": {"x": 4.5, "y": 14.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[item=fusion-power-cell]: Input",
+        "icon": {"name": "fusion-power-cell"},
+        "position": {"x": 13.5, "y": 1.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[item=fusion-power-cell]: Input",
+        "icon": {"name": "fusion-power-cell"},
+        "position": {"x": 1.5, "y": 14.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "100 barrels to fill reactors.",
+        "icon": {"name": "fluoroketone-cold-barrel"},
+        "position": {"x": 30.5, "y": 11.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[item=fusion-power-cell]: Input",
+        "icon": {"name": "fusion-power-cell"},
+        "position": {"x": 30.5, "y": 13.5}
+      },
+      {
+        "name": "display-panel",
+        "always_show": true,
+        "direction": 4,
+        "text": "[item=fusion-power-cell]: Input",
+        "icon": {"name": "fusion-power-cell"},
+        "position": {"x": 18.5, "y": 26.5}
+      },
+      {"name": "fusion-generator", "quality": "legendary", "position": {"x": 4.5, "y": 2.5}},
+      {
+        "name": "fusion-generator",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 3.5, "y": 6.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 7.5, "y": 7.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 9.5, "y": 3.5}
+      },
+      {"name": "fusion-generator", "quality": "legendary", "position": {"x": 13.5, "y": 5.5}},
+      {
+        "name": "fusion-generator",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 3.5, "y": 9.5}
+      },
+      {"name": "fusion-generator", "quality": "legendary", "position": {"x": 10.5, "y": 8.5}},
+      {
+        "name": "fusion-generator",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 22.5, "y": 3.5}
+      },
+      {"name": "fusion-generator", "quality": "legendary", "position": {"x": 18.5, "y": 5.5}},
+      {"name": "fusion-generator", "quality": "legendary", "position": {"x": 27.5, "y": 2.5}},
+      {
+        "name": "fusion-generator",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 28.5, "y": 6.5}
+      },
+      {"name": "fusion-generator", "quality": "legendary", "position": {"x": 21.5, "y": 8.5}},
+      {"name": "fusion-generator", "quality": "legendary", "position": {"x": 24.5, "y": 8.5}},
+      {
+        "name": "fusion-generator",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 28.5, "y": 9.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 3.5, "y": 18.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 7.5, "y": 19.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 3.5, "y": 21.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 10.5, "y": 19.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 13.5, "y": 22.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 4.5, "y": 25.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 9.5, "y": 24.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 21.5, "y": 19.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 18.5, "y": 22.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 28.5, "y": 18.5}
+      },
+      {"name": "fusion-generator", "quality": "legendary", "position": {"x": 24.5, "y": 20.5}},
+      {
+        "name": "fusion-generator",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 28.5, "y": 21.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 22.5, "y": 24.5}
+      },
+      {
+        "name": "fusion-generator",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 27.5, "y": 25.5}
+      },
+      {"name": "fusion-reactor", "quality": "legendary", "position": {"x": 10, "y": 14}},
+      {"name": "fusion-reactor", "quality": "legendary", "position": {"x": 16, "y": 11}},
+      {"name": "fusion-reactor", "quality": "legendary", "position": {"x": 22, "y": 14}},
+      {"name": "fusion-reactor", "quality": "legendary", "position": {"x": 16, "y": 17}},
+      {"name": "pipe", "position": {"x": 2.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 3.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 4.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 5.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 26.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 27.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 28.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": 29.5, "y": -0.5}},
+      {"name": "pipe", "position": {"x": -0.5, "y": 4.5}},
+      {"name": "pipe", "position": {"x": -0.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": -0.5, "y": 6.5}},
+      {"name": "pipe", "position": {"x": -0.5, "y": 7.5}},
+      {"name": "pipe", "position": {"x": -0.5, "y": 9.5}},
+      {"name": "pipe", "position": {"x": -0.5, "y": 10.5}},
+      {"name": "pipe", "position": {"x": -0.5, "y": 16.5}},
+      {"name": "pipe", "position": {"x": 2.5, "y": 0.5}},
+      {"name": "pipe", "position": {"x": 2.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 1.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 3.5}},
+      {"name": "pipe", "position": {"x": 2.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 0.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 7.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 3.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 4.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 7.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 4.5}},
+      {"name": "pipe", "position": {"x": 8.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 9.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 10.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 11.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 12.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 12.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 13.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 14.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 15.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 11.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 8.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 9.5}},
+      {"name": "pipe", "position": {"x": 8.5, "y": 10.5}},
+      {"name": "pipe", "position": {"x": 19.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 16.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 17.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 18.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 19.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 20.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 21.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 22.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 23.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 20.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": 21.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": 22.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": 23.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 0.5}},
+      {"name": "pipe", "position": {"x": 24.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 3.5}},
+      {"name": "pipe", "position": {"x": 29.5, "y": 0.5}},
+      {"name": "pipe", "position": {"x": 29.5, "y": 1.5}},
+      {"name": "pipe", "position": {"x": 29.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 30.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 2.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 3.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 4.5}},
+      {"name": "pipe", "position": {"x": 24.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 4.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 5.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 6.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 7.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 8.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 9.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 10.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 11.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 16.5}},
+      {"name": "pipe", "position": {"x": 1.5, "y": 16.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 17.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 18.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 19.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 20.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 21.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 23.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 7.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 23.5}},
+      {"name": "pipe", "position": {"x": 8.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 9.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 10.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 11.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 24.5}},
+      {"name": "pipe", "position": {"x": 0.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 1.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 2.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 2.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 2.5, "y": 27.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 24.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 7.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 27.5}},
+      {"name": "pipe", "position": {"x": 2.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 3.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 4.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 5.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 6.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 8.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 9.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 10.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 11.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 12.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 13.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 14.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 15.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 12.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 23.5, "y": 17.5}},
+      {"name": "pipe", "position": {"x": 20.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 18.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 19.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 23.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 20.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 23.5}},
+      {"name": "pipe", "position": {"x": 16.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 17.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 18.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 19.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 19.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 20.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 21.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 22.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 23.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 24.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 24.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 27.5}},
+      {"name": "pipe", "position": {"x": 29.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 24.5}},
+      {"name": "pipe", "position": {"x": 30.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 31.5, "y": 25.5}},
+      {"name": "pipe", "position": {"x": 29.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 29.5, "y": 27.5}},
+      {"name": "pipe", "position": {"x": 25.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 26.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 27.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 28.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 29.5, "y": 28.5}},
+      {"name": "pipe", "position": {"x": 32.5, "y": 11.5}},
+      {"name": "pipe", "position": {"x": 32.5, "y": 17.5}},
+      {"name": "pipe", "position": {"x": 32.5, "y": 18.5}},
+      {"name": "pipe", "position": {"x": 32.5, "y": 20.5}},
+      {"name": "pipe", "position": {"x": 32.5, "y": 21.5}},
+      {"name": "pipe", "position": {"x": 32.5, "y": 22.5}},
+      {"name": "pipe", "position": {"x": 32.5, "y": 23.5}},
+      {"name": "pipe-to-ground", "position": {"x": -0.5, "y": 8.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": -0.5, "y": 15.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 0.5, "y": 5.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 10.5, "y": 5.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 0.5, "y": 10.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 7.5, "y": 10.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 21.5, "y": 22.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 24.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 31.5, "y": 17.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 31.5, "y": 22.5}},
+      {"name": "pipe-to-ground", "position": {"x": 32.5, "y": 12.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 32.5, "y": 19.5}},
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": -0.5, "y": 1.5}},
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": -0.5, "y": 17.5}
+      },
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": -0.5, "y": 26.5}
+      },
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": 0.5, "y": 0.5}},
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": 7.5, "y": 0.5}},
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 12.5, "y": 10.5}
+      },
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": 24.5, "y": 0.5}},
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": 31.5, "y": 0.5}},
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 19.5, "y": 10.5}
+      },
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 12.5, "y": 17.5}
+      },
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": 0.5, "y": 27.5}},
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": 7.5, "y": 27.5}},
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 19.5, "y": 17.5}
+      },
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 24.5, "y": 27.5}
+      },
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 31.5, "y": 27.5}
+      },
+      {"name": "small-lamp", "color": {"a": 1, "b": 1, "g": 1, "r": 1}, "position": {"x": 32.5, "y": 1.5}},
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 32.5, "y": 10.5}
+      },
+      {
+        "name": "small-lamp",
+        "color": {"a": 1, "b": 1, "g": 1, "r": 1},
+        "position": {"x": 32.5, "y": 26.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 12,
+        "quality": "legendary",
+        "position": {"x": 6.5, "y": 11.5}
+      },
+      {"name": "stack-inserter", "quality": "legendary", "position": {"x": 16.5, "y": 7.5}},
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "override_stack_size": 1,
+        "quality": "legendary",
+        "position": {"x": 28.5, "y": 11.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 12,
+        "override_stack_size": 1,
+        "quality": "legendary",
+        "position": {"x": 28.5, "y": 12.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 8,
+        "quality": "legendary",
+        "position": {"x": 15.5, "y": 20.5}
+      },
+      {
+        "name": "stack-inserter",
+        "direction": 4,
+        "quality": "legendary",
+        "position": {"x": 25.5, "y": 16.5}
+      },
+      {"name": "substation", "position": {"x": 2, "y": 4}},
+      {"name": "substation", "position": {"x": 16, "y": 5}},
+      {"name": "substation", "position": {"x": 30, "y": 4}},
+      {"name": "substation", "position": {"x": 2, "y": 24}},
+      {"name": "substation", "position": {"x": 16, "y": 23}},
+      {"name": "substation", "position": {"x": 30, "y": 24}},
+      {"name": "turbo-splitter", "direction": 4, "position": {"x": 15.5, "y": 0}},
+      {"name": "turbo-splitter", "position": {"x": 0, "y": 12.5}},
+      {"name": "turbo-splitter", "direction": 12, "position": {"x": 16.5, "y": 28}},
+      {"name": "turbo-splitter", "direction": 8, "position": {"x": 32, "y": 15.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": -0.5, "y": -0.5}},
+      {
+        "name": "turbo-transport-belt",
+        "direction": 8,
+        "control_behavior": {"circuit_contents_read_mode": 2, "circuit_read_hand_contents": true},
+        "position": {"x": 32.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-transport-belt",
+        "control_behavior": {"circuit_contents_read_mode": 2, "circuit_read_hand_contents": true},
+        "position": {"x": -0.5, "y": 28.5}
+      },
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 13.5, "y": 0.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 14.5, "y": 0.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 0.5, "y": 11.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 0.5, "y": 13.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 0.5, "y": 14.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 16.5, "y": 0.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 31.5, "y": 13.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 31.5, "y": 14.5}},
+      {"name": "turbo-transport-belt", "position": {"x": 15.5, "y": 27.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 31.5, "y": 16.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 17.5, "y": 27.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 18.5, "y": 27.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 32.5, "y": 28.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "input",
+        "position": {"x": 0.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "output",
+        "position": {"x": 7.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "input",
+        "position": {"x": 8.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 13.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "output",
+        "position": {"x": 14.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "input",
+        "position": {"x": 16.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "output",
+        "position": {"x": 23.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "input",
+        "position": {"x": 24.5, "y": -0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "output",
+        "position": {"x": 31.5, "y": -0.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": -0.5, "y": 0.5}},
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": -0.5, "y": 2.5}},
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": -0.5, "y": 3.5}},
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": -0.5, "y": 11.5}},
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": -0.5, "y": 13.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "output",
+        "position": {"x": -0.5, "y": 14.5}
+      },
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": -0.5, "y": 18.5}},
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": -0.5, "y": 19.5}},
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": -0.5, "y": 27.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "input",
+        "position": {"x": 1.5, "y": 11.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "output",
+        "position": {"x": 5.5, "y": 11.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 16.5, "y": 1.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 16.5, "y": 6.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 29.5, "y": 11.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 4,
+        "type": "input",
+        "position": {"x": 29.5, "y": 12.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 15.5, "y": 21.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 0.5, "y": 28.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 7.5, "y": 28.5}
+      },
+      {"name": "turbo-underground-belt", "type": "input", "position": {"x": 15.5, "y": 26.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 8.5, "y": 28.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 15.5, "y": 28.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 26.5, "y": 16.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 30.5, "y": 16.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 17.5, "y": 28.5}
+      },
+      {"name": "turbo-underground-belt", "type": "output", "position": {"x": 18.5, "y": 28.5}},
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 23.5, "y": 28.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 24.5, "y": 28.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "input",
+        "position": {"x": 31.5, "y": 28.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 32.5, "y": 0.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 32.5, "y": 8.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 32.5, "y": 9.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 12,
+        "type": "output",
+        "position": {"x": 32.5, "y": 13.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 32.5, "y": 14.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 32.5, "y": 16.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 32.5, "y": 24.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "input",
+        "position": {"x": 32.5, "y": 25.5}
+      },
+      {
+        "name": "turbo-underground-belt",
+        "direction": 8,
+        "type": "output",
+        "position": {"x": 32.5, "y": 27.5}
+      }
+    ],
+    "icons": [{"index": 1, "signal": {"name": "fusion-reactor"}}],
+    "wires": [
+      ["2.5,4.5", 5, "16.5,5.5", 5],
+      ["30.5,4.5", 5, "16.5,5.5", 5],
+      ["16.5,5.5", 5, "16.5,23.5", 5],
+      ["2.5,24.5", 5, "16.5,23.5", 5],
+      ["16.5,23.5", 5, "30.5,24.5", 5]
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "blueprint": {
+    "item": "blueprint",
+    "label": "45MW",
+    "description": "A backup generator with built-in warning and critical alerts.",
+    "shift_x": -238,
+    "shift_y": -726,
+    "version": 562949958139904,
+    "entities": [
+      {
+        "name": "accumulator",
+        "quality": "legendary",
+        "control_behavior": {"output_signal": {"name": "signal-A", "type": "virtual"}},
+        "position": {"x": 1, "y": 8}
+      },
+      {"name": "accumulator", "quality": "legendary", "position": {"x": 1, "y": 12}},
+      {
+        "name": "accumulator",
+        "quality": "legendary",
+        "control_behavior": {"output_signal": {"name": "signal-A", "type": "virtual"}},
+        "position": {"x": 18, "y": 8}
+      },
+      {"name": "accumulator", "quality": "legendary", "position": {"x": 18, "y": 12}},
+      {"name": "accumulator", "quality": "legendary", "position": {"x": 1, "y": 18}},
+      {"name": "accumulator", "quality": "legendary", "position": {"x": 1, "y": 20}},
+      {"name": "accumulator", "quality": "legendary", "position": {"x": 1, "y": 22}},
+      {"name": "accumulator", "quality": "legendary", "position": {"x": 18, "y": 18}},
+      {"name": "accumulator", "quality": "legendary", "position": {"x": 18, "y": 20}},
+      {"name": "accumulator", "quality": "legendary", "position": {"x": 18, "y": 22}},
+      {"name": "boiler", "direction": 8, "quality": "legendary", "position": {"x": 3.5, "y": 4}},
+      {"name": "boiler", "direction": 8, "quality": "legendary", "position": {"x": 6.5, "y": 4}},
+      {"name": "boiler", "direction": 8, "quality": "legendary", "position": {"x": 9.5, "y": 4}},
+      {"name": "boiler", "direction": 8, "quality": "legendary", "position": {"x": 12.5, "y": 4}},
+      {"name": "boiler", "direction": 8, "quality": "legendary", "position": {"x": 15.5, "y": 4}},
+      {"name": "boiler", "quality": "legendary", "position": {"x": 3.5, "y": 26}},
+      {"name": "boiler", "quality": "legendary", "position": {"x": 6.5, "y": 26}},
+      {"name": "boiler", "quality": "legendary", "position": {"x": 9.5, "y": 26}},
+      {"name": "boiler", "quality": "legendary", "position": {"x": 12.5, "y": 26}},
+      {"name": "boiler", "quality": "legendary", "position": {"x": 15.5, "y": 26}},
+      {
+        "name": "burner-inserter",
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 3.5, "y": 2.5}
+      },
+      {
+        "name": "burner-inserter",
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 6.5, "y": 2.5}
+      },
+      {
+        "name": "burner-inserter",
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 9.5, "y": 2.5}
+      },
+      {
+        "name": "burner-inserter",
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 12.5, "y": 2.5}
+      },
+      {
+        "name": "burner-inserter",
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 15.5, "y": 2.5}
+      },
+      {
+        "name": "burner-inserter",
+        "direction": 8,
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 3.5, "y": 27.5}
+      },
+      {
+        "name": "burner-inserter",
+        "direction": 8,
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 6.5, "y": 27.5}
+      },
+      {
+        "name": "burner-inserter",
+        "direction": 8,
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 9.5, "y": 27.5}
+      },
+      {
+        "name": "burner-inserter",
+        "direction": 8,
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 12.5, "y": 27.5}
+      },
+      {
+        "name": "burner-inserter",
+        "direction": 8,
+        "control_behavior": {
+          "circuit_enabled": true,
+          "circuit_condition": {"comparator": "<", "constant": 20, "first_signal": {"name": "signal-lightning", "type": "virtual"}}
+        },
+        "position": {"x": 15.5, "y": 27.5}
+      },
+      {
+        "name": "decider-combinator",
+        "direction": 12,
+        "control_behavior": {
+          "decider_conditions": {
+            "conditions": [
+              {"comparator": "≥", "constant": 40, "first_signal": {"name": "signal-A", "type": "virtual"}},
+              {"compare_type": "and", "constant": 60, "first_signal": {"name": "signal-A", "type": "virtual"}}
+            ],
+            "outputs": [{"copy_count_from_input": false, "signal": {"name": "signal-yellow", "type": "virtual"}}]
+          }
+        },
+        "position": {"x": 1, "y": 9.5}
+      },
+      {
+        "name": "decider-combinator",
+        "direction": 12,
+        "control_behavior": {
+          "decider_conditions": {
+            "conditions": [{"constant": 40, "first_signal": {"name": "signal-A", "type": "virtual"}}],
+            "outputs": [{"copy_count_from_input": false, "signal": {"name": "signal-red", "type": "virtual"}}]
+          }
+        },
+        "position": {"x": 18, "y": 9.5}
+      },
+      {"name": "pipe", "position": {"x": 1.5, "y": 3.5}},
+      {"name": "pipe", "position": {"x": 1.5, "y": 14.5}},
+      {"name": "pipe", "position": {"x": 17.5, "y": 3.5}},
+      {"name": "pipe", "position": {"x": 17.5, "y": 14.5}},
+      {"name": "pipe", "position": {"x": 1.5, "y": 26.5}},
+      {"name": "pipe", "position": {"x": 17.5, "y": 26.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 0.5, "y": 3.5}},
+      {"name": "pipe-to-ground", "position": {"x": 1.5, "y": 4.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 1.5, "y": 13.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 0.5, "y": 14.5}},
+      {"name": "pipe-to-ground", "position": {"x": 1.5, "y": 15.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 18.5, "y": 3.5}},
+      {"name": "pipe-to-ground", "position": {"x": 17.5, "y": 4.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 17.5, "y": 13.5}},
+      {"name": "pipe-to-ground", "position": {"x": 17.5, "y": 15.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 18.5, "y": 14.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 1.5, "y": 25.5}},
+      {"name": "pipe-to-ground", "direction": 4, "position": {"x": 0.5, "y": 26.5}},
+      {"name": "pipe-to-ground", "direction": 8, "position": {"x": 17.5, "y": 25.5}},
+      {"name": "pipe-to-ground", "direction": 12, "position": {"x": 18.5, "y": 26.5}},
+      {
+        "name": "programmable-speaker",
+        "alert_parameters": {
+          "alert_message": "Power level below safe range",
+          "show_alert": true,
+          "show_on_map": true,
+          "icon_signal_id": {"name": "signal-battery-mid-level", "type": "virtual"}
+        },
+        "control_behavior": {
+          "circuit_condition": {"comparator": "=", "constant": 1, "first_signal": {"name": "signal-yellow", "type": "virtual"}},
+          "circuit_parameters": {"instrument_id": 0, "note_id": 0, "signal_value_is_pitch": false, "stop_playing_sounds": false}
+        },
+        "parameters": {
+          "allow_polyphony": true,
+          "playback_mode": "global",
+          "playback_volume": 0,
+          "volume_controlled_by_signal": false
+        },
+        "position": {"x": 1.5, "y": 10.5}
+      },
+      {
+        "name": "programmable-speaker",
+        "alert_parameters": {
+          "alert_message": "Critical power level, backup generator warming up.",
+          "show_alert": true,
+          "show_on_map": true,
+          "icon_signal_id": {"name": "signal-battery-low", "type": "virtual"}
+        },
+        "control_behavior": {
+          "circuit_condition": {"comparator": "=", "constant": 1, "first_signal": {"name": "signal-red", "type": "virtual"}},
+          "circuit_parameters": {"instrument_id": 0, "note_id": 0, "signal_value_is_pitch": false, "stop_playing_sounds": true}
+        },
+        "parameters": {
+          "allow_polyphony": true,
+          "playback_mode": "global",
+          "playback_volume": 1,
+          "volume_controlled_by_signal": false
+        },
+        "position": {"x": 17.5, "y": 10.5}
+      },
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 0.5, "y": -0.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 3.5, "y": -0.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 6.5, "y": -0.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 9.5, "y": -0.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 12.5, "y": -0.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 15.5, "y": -0.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 18.5, "y": -0.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 0.5, "y": 30.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 3.5, "y": 30.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 6.5, "y": 30.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 9.5, "y": 30.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 12.5, "y": 30.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 15.5, "y": 30.5}},
+      {"name": "solar-panel", "quality": "legendary", "position": {"x": 18.5, "y": 30.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 3.5, "y": 7.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 6.5, "y": 7.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 9.5, "y": 7.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 12.5, "y": 7.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 15.5, "y": 7.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 3.5, "y": 12.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 6.5, "y": 12.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 9.5, "y": 12.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 12.5, "y": 12.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 15.5, "y": 12.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 3.5, "y": 17.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 6.5, "y": 17.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 3.5, "y": 22.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 6.5, "y": 22.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 9.5, "y": 17.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 12.5, "y": 17.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 15.5, "y": 17.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 9.5, "y": 22.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 12.5, "y": 22.5}},
+      {"name": "steam-engine", "quality": "legendary", "position": {"x": 15.5, "y": 22.5}},
+      {"name": "substation", "position": {"x": 1, "y": 6}},
+      {"name": "substation", "position": {"x": 18, "y": 6}},
+      {"name": "substation", "position": {"x": 1, "y": 24}},
+      {"name": "substation", "position": {"x": 18, "y": 24}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": -0.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 2.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 3.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 5.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 7.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 8.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 9.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 10.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 11.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 12.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 13.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 14.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 15.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 16.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 18.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 19.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 20.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 21.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 22.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 23.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 24.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 25.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 26.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 27.5}},
+      {"name": "turbo-transport-belt", "position": {"x": -0.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 0.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 1.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 2.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 3.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 4.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 5.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 6.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 7.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 8.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 9.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 10.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 11.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 12.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 13.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 14.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 15.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 16.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 17.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 4, "position": {"x": 18.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 1.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 2.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 3.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 4.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 5.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 6.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 7.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 8.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 9.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 10.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 11.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 12.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 13.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 14.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 15.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 0.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 1.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 2.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 3.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 4.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 5.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 6.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 7.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 8.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 9.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 10.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 11.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 12.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 13.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 14.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 15.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 16.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 17.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 18.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 19.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 20.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 21.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 22.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 23.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 24.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 25.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 26.5}},
+      {"name": "turbo-transport-belt", "direction": 8, "position": {"x": 19.5, "y": 27.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 16.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 17.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 18.5, "y": 28.5}},
+      {"name": "turbo-transport-belt", "direction": 12, "position": {"x": 19.5, "y": 28.5}}
+    ],
+    "icons": [{"index": 1, "signal": {"name": "steam-engine"}}],
+    "wires": [
+      ["4,3", 2, "7,3", 2],
+      ["7,3", 2, "10,3", 2],
+      ["10,3", 2, "13,3", 2],
+      ["13,3", 2, "16,3", 2],
+      ["16,3", 2, "18.5,6.5", 2],
+      ["1.5,6.5", 5, "18.5,6.5", 5],
+      ["1.5,6.5", 5, "1.5,24.5", 5],
+      ["18.5,6.5", 2, "18.5,24.5", 2],
+      ["18.5,6.5", 5, "18.5,24.5", 5],
+      ["1.5,10", 2, "1.5,8.5", 2],
+      ["1.5,10", 4, "2,11", 2],
+      ["18.5,10", 2, "18.5,8.5", 2],
+      ["18.5,10", 4, "18,11", 2],
+      ["1.5,24.5", 5, "18.5,24.5", 5],
+      ["18.5,24.5", 2, "16,28", 2],
+      ["4,28", 2, "7,28", 2],
+      ["7,28", 2, "10,28", 2],
+      ["10,28", 2, "13,28", 2],
+      ["13,28", 2, "16,28", 2]
+    ]
+  }
+}
